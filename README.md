@@ -52,8 +52,6 @@ In order to see all the changes made in the repository, the *git log* command is
 ## *__Branches in Git__*
 Create a branch. To create a branch, use the *git branch* command. This is done as follows in the folder with the repository: *git branch <name of the new branch>*
 
-![Branching in Git](/Branch.png)
-
 * *Merging branches*
 
 To add a branch to the current branch, use the *git merge* command.
